@@ -1,29 +1,3 @@
-#Tomy Crouset Albert,
-#Html5 BoilerPlate College O'sullivan Quebec
-#Webh13 Projet D'Intégration Boutique en ligne
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
